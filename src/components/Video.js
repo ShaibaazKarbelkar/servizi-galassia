@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 function Video() {
   const [isOpen, setIsOpen] = useState(false);
   const videoId = '5fUAJs1TP1o'; // Replace with your YouTube video ID
-  const thumbnailUrl = `/assets/images/videoImages/video-thumbnail.WEBP`;
+  const thumbnailUrl = `/assets/images/videoImages/video-thumbnail.PNG`;
 
   const openModal = () => setIsOpen(true);
   const closeModal = () => setIsOpen(false);

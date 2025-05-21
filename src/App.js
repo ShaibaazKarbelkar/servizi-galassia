@@ -25,7 +25,7 @@ function App() {
         {/* Header End */}
 
         {/* EnquirePOPUP Start */}
-        {/* <Enquire/> */}
+        <Enquire/>
         {/* EnquirePOPUP End */}
 
         {/* Banner Start */}

@@ -3,7 +3,7 @@ import { FaPlus, FaMinus } from 'react-icons/fa';
 
 const faqData = [
   {
-    question: 'What types of products do you offer at A&T Services Inc.?',
+    question: 'What types of products do you offer at SG Inc.?',
     answer:
       'We offer high-quality refurbished laptops, desktops, and IT equipment, available at affordable prices. All of our products undergo rigorous testing to ensure optimal performance and reliability.',
   },
@@ -38,7 +38,7 @@ const faqData = [
       'You can request a quote by contacting our sales department via phone or email.',
   },
   {
-    question: 'How do I contact A&T Services Inc. for support or inquiries?',
+    question: 'How do I contact SG Inc. for support or inquiries?',
     answer:
       'You can contact us via phone, email, or through the contact form on our website.',
   },

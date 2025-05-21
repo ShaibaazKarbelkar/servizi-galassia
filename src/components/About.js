@@ -13,7 +13,7 @@ function About  ()
         <div className="content">
             <h1>ABOUT US</h1>
             <p className="aboutp">
-            At <strong>A&amp;T Services Inc.</strong>, we take pride in providing
+            At <strong>SG Inc.</strong>, we take pride in providing
             high-quality refurbished computers and laptops at unbeatable prices. With years
             of experience in the Indian IT industry, we’ve built a strong reputation for
             offering reliable hardware solutions, backed by prompt, expert support. Our

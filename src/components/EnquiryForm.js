@@ -6,7 +6,7 @@ function EnquiryForm() {
       <div className="containerF">
         <h2 className="enquiry-label">ENQUIRE NOW</h2>
         <h1 className="enquiry-title">WRITE A MESSAGE TO US</h1>
-        <form >
+        <div className="form">
           <input className="enquiry-input" type="text" placeholder="Company Name" />
           <input className="enquiry-input" type="email" placeholder="Email Address" />
           <input className="enquiry-input" type="tel" placeholder="Phone number" />
@@ -14,7 +14,7 @@ function EnquiryForm() {
           <div className="submit-wrapper">
             <button className="enquiry-btn" type="submit">SUBMIT NOW</button>
           </div>
-        </form>
+        </div>
       </div>
     </div>
     );
